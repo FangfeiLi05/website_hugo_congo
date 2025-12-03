@@ -2,7 +2,7 @@
 title: "Deep Learning Specialization - Coursera"
 date: 2025-11-30
 description: "Add description"
-summary: "Add summary"
+summary: "In Progress"
 tags: []
 ---
 

@@ -12,7 +12,8 @@
 
 [[main]]
   name = "Resume"
-  url = "/files/resume_FL_20251201.pdf"
+  pageRef = "resume"
+  #url = "/files/resume_FL_20251201.pdf"
   weight = 10
 
 [[main]]
